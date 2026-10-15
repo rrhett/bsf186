@@ -672,3 +672,65 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+================================================================================
+SPLIT-LICENSE NOTICE AND ADDITIONAL TERMS UNDER SECTION 7 OF THE GNU GPL v3
+================================================================================
+
+This repository is distributed under a split license distinguishing the software
+code from government form template assets.
+
+1. Software Code and Scripts (GNU General Public License v3.0)
+--------------------------------------------------------------
+All software code, scripts (including generate.py), and associated tooling in
+this repository are free software licensed under the terms of the GNU General
+Public License, Version 3, June 2007, as published by the Free Software
+Foundation (as set forth above).
+
+
+2. Form Templates and Visual Assets Exception (templates/template.svg)
+----------------------------------------------------------------------
+The form template asset located in `templates/template.svg` is a digital vector
+reproduction and adaptation of Canada Border Services Agency (CBSA) Form BSF186A
+("Personal Effects Accounting Document (list of goods imported)"), which is
+subject to Crown Copyright (Government of Canada). It is available on the CBSA
+website at
+<https://www.cbsa-asfc.gc.ca/publications/forms-formulaires/bsf186a-eng.html>.
+
+Pursuant to Section 7 of the GNU General Public License v3.0, the following
+additional terms, conditions, and exceptions apply specifically to the form
+template assets (`templates/template.svg` and any files within `templates/`):
+
+A. Non-Commercial Reproduction:
+   In accordance with the Government of Canada Terms and Conditions for
+   Non-Commercial Reproduction, this template asset is provided solely for
+   personal, public, and non-commercial administrative use. You may reproduce,
+   in whole or in part for non-commercial purposes, and use this template
+   without charge or further permission from the CBSA or the Government of
+   Canada, provided that:
+   (i)   You exercise due diligence in ensuring the accuracy of the materials
+         reproduced;
+   (ii)  Indicate both the complete title of the materials reproduced, as well
+         as the author (where available)
+   (iii) Indicate that the reproduction is a copy of the version available on
+         the CBSA website (and provide the URL)
+
+B. Preservation of Legal Notices and Attribution (GPLv3 § 7(b)):
+   All copies or modifications of `templates/template.svg` must retain all
+   existing copyright notices, attribution of the CBSA source department, and
+   this licensing exception notice.
+
+C. Non-Endorsement / Origin Attribution (GPLv3 § 7(c) & 7(d)):
+   This project is an independent open-source utility and is not affiliated
+   with, authorized by, or endorsed by the Canada Border Services Agency or the
+   Government of Canada. Neither the name of the CBSA nor the Government of
+   Canada may be used to endorse or promote products derived from this software
+   without specific prior written permission.
+
+D. Severability & Commercial Code Use:
+   If you wish to use the software code (generate.py) under the terms of the
+   GNU GPL v3 in a commercial context, you may do so under the GPL v3 provided
+   you decouple the software from, and do not distribute, any form templates
+   governed by non-commercial Crown Copyright terms without independent
+   authorization.
+
